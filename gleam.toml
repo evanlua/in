@@ -1,5 +1,5 @@
 name = "in"
-version = "1.0.1"
+version = "1.0.2"
 
 description = "Provide the missing i from the gleam/io"
 licences = ["Apache-2.0"]
