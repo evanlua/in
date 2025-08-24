@@ -1,9 +1,9 @@
 name = "in"
-version = "1.0.0"
+version = "1.0.1"
 
 description = "Provide the missing i from the gleam/io"
 licences = ["Apache-2.0"]
-repository = { type = "github", user = "evanlua", repo = "gleam_in" }
+repository = { type = "github", user = "evanlua", repo = "in" }
 
 [dependencies]
 gleam_stdlib = ">= 0.44.0 and < 2.0.0"
